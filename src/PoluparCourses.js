@@ -9,8 +9,8 @@ const PoluparCourses = () => {
 
     <div class="courses-list">
       <div class="course-card">
-        <h3>Python Fullstack Developer Course</h3>
-        <p>Comprehensive training to become a full-stack Python developer.</p>
+        <h3>Data Engineer Course</h3>
+        <p>Learn Data Engineer with 100% Placement Assistance.</p>
       </div>
 
       <div class="course-card">
@@ -34,8 +34,8 @@ const PoluparCourses = () => {
       </div>
 
       <div class="course-card">
-        <h3>Fullstack in MEAN</h3>
-        <p>Learn to build web applications using MongoDB, Express.js, Angular, and Node.js.</p>
+        <h3>Data Scientist</h3>
+        <p>Master Data Scientist with 100% Placement Assistance.</p>
       </div>
     </div>
   </div>
