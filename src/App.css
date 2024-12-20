@@ -729,6 +729,9 @@ h1{
 }
 
 .technology p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 1em;
   color: #333;
   font-weight: bold;
@@ -1261,7 +1264,7 @@ footer p {
 
 /* Mobile Menu */
 .nav ul.active {
-  margin-top:40px;
+  margin-top: 35px;
   display: block;
 }
 
@@ -1359,7 +1362,7 @@ h3, h2 {
 /* List for Benefits */
 ul {
   list-style-type: none;
-  padding-left: 20px;
+  padding-left: 0px;
 }
 
 ul li {
