@@ -751,9 +751,11 @@ h1{
     height: 40px;
   }
 
-  .technology p {
+ .technology p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 0.9em;
-  }
 }
 .tech-logos {
   display: flex;
@@ -1337,7 +1339,7 @@ footer p {
 
 /* Paragraph Styling */
 p {
-  padding-left: 20px;
+  padding-left: 0px;
   font-size: 16px;
   line-height: 1.6;
   margin-bottom: 15px;
